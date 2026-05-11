@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../flutter_pub_caches/hosted/pub.flutter-io.cn/jni-1.0.0" />
+      <root url="file://$PROJECT_DIR$/../../flutter_pub_caches/hosted/pub.flutter-io.cn/path_provider_foundation-2.5.1" />
+      <root url="file://$PROJECT_DIR$/../../flutter_pub_caches/hosted/pub.flutter-io.cn/jni_flutter-1.0.1" />
+      <root url="file://$PROJECT_DIR$/../../flutter_pub_caches/hosted/pub.flutter-io.cn/path_provider_linux-2.2.1" />
+      <root url="file://$PROJECT_DIR$/../../flutter_pub_caches/hosted/pub.flutter-io.cn/path_provider_android-2.3.1" />
+      <root url="file://$PROJECT_DIR$/../../flutter_pub_caches/hosted/pub.flutter-io.cn/path_provider-2.1.5" />
+      <root url="file://$PROJECT_DIR$/../../flutter_pub_caches/hosted/pub.flutter-io.cn/path_provider_windows-2.3.0" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
